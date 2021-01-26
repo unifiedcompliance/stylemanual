@@ -14,5 +14,5 @@ Many of the headlines within this document are derived directly from a Common Co
 
 [https://www.unifiedcompliance.com/products/search-controls/?search-controls=XXXX](https://www.unifiedcompliance.com/products/search-controls/?search-controls=XXXX)
 
-If you have any questions about the usage of this document, please feel free to conduct the staff at [admin@grcschema.org](mailto:admin@grcschema.org). We sincerely hope that this document helps foster better writing in your organization.
+If you have any questions about the usage of this document, please feel free to conduct the staff at [grcschema@listserv.grcschema.org](mailto:grcschema@listserv.grcschema.org). We sincerely hope that this document helps foster better writing in your organization.
 
