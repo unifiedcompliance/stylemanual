@@ -1,6 +1,6 @@
 # Manual of Style API calls
 
-The Unified Compliance Framework team have developed Application Programming Interface \(API\) calls to aid, and standardize, portions of this Manual of Style. These API calls can be found online HERE. We will define their properties and use herein.
+The Unified Compliance Framework team have developed Application Programming Interface \(API\) calls to aid, and standardize, portions of this Manual of Style. These API calls can be found online [HERE](https://theucf.info/API-NextGen). We will define their properties and use herein.
 
 ## naming-standard
 
