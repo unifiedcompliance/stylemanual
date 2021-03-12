@@ -40,7 +40,7 @@ Bold should be used _very_ sparingly as a strong emphasis for an idea, such as w
 
 Bold text should also be used in a serial list when the list presents an idea, term, etc. followed by the definition or explanation of that text. Example:
 
-**Chicago Style** – tells you XXX
+**Chicago Style** – tells you to ignore using bold unless absolutely necessary.
 
 **APA Style** – doesn’t cover bold at all.
 
