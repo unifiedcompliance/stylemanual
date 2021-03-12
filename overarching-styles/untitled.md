@@ -44,6 +44,12 @@ Bold text should also be used in a serial list when the list presents an idea, t
 
 **APA Style** – doesn’t cover bold at all.
 
+Always bold the header row of tables, as shown below.
+
+| This is a header | And so is this |
+| :--- | :--- |
+| This is _not_ a header, it is content. | And content should not be bolded in a table. |
+
 Otherwise, use italic \(see below\).
 
 Never use bold formatting in any form of punctuation after a bolded term.
