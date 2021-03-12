@@ -69,7 +69,7 @@ Examples:
 * spring;
 * summer session
 
-### Use lowercase for email addresses and URLs.
+### Use lowercase for email addresses and URLs
 
 RFC 2822 specifies that all email addresses and URLs are case sensitive. Therefore, always use lowercase for both email addresses and URLs.
 
@@ -77,4 +77,12 @@ Examples:
 
 * thedorian@snortblat.com
 * www.snortblat.com
+
+### Use lowercase following a defined term in a list
+
+Examples:
+
+**Chicago Style** – tells you to ignore using bold unless absolutely necessary.
+
+**APA Style** – doesn’t cover bold at all.
 
